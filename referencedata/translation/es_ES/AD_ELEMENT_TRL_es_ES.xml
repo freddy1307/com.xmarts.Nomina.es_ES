@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="61F7AE0859EC44518AE0D897141E5727" trl="Y">
+    <value column="Name" isTrl="Y" original="Is gross salary">Es el sueldo bruto</value>
+    <value column="PrintName" isTrl="Y" original="Is gross salary">Es el sueldo bruto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8847398A4B4849F8B9926AC8644C1635" trl="Y">
+    <value column="Name" isTrl="Y" original="Based on the gross salary">Basado en el sueldo bruto</value>
+    <value column="PrintName" isTrl="Y" original="Based on the gross salary">Basado en el sueldo bruto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9A32D586808C4145897541F7143B12B1" trl="Y">
+    <value column="Name" isTrl="Y" original="Percentage">Porcentaje</value>
+    <value column="PrintName" isTrl="Y" original="Percentage">Porcentaje</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A0271D17CA314040A762DCE6387B69F2" trl="Y">
+    <value column="Name" isTrl="Y" original="Based on net salary">Basado en el sueldo neto</value>
+    <value column="PrintName" isTrl="Y" original="Based on net salary">Basado en el sueldo neto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
